@@ -15,7 +15,13 @@ customization {
 
 customization {
   action = setscale
-  scale = 3
+  scale = 2
+}
+
+customization {
+  baseheight = 1050
+  action = autoscale
+  basewidth = 1680
 }
 
 customization {
@@ -294,7 +300,7 @@ customization {
   y = 47
   delayappearance = true
   alignment = centered
-  value = v1.0.0+1.18.2
+  value = v1.1.0+1.18.2
   delayappearanceeverytime = false
 }
 

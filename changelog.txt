@@ -1,3 +1,61 @@
+================================================================================
+SquirrelPAK AV - Almost Vanilla
+Change Log
+
+SquirrelPAK AV - 1.1
+File Version 1.1.0+1.18.2
+================================================================================
+
+The Self Proclam Release
+
+In this update, we have updated the forge version to 40.1.20 due to mods being updated, and updated those mods to the latest release. Made some fixes and updates to the in game manual (added our new mod pack to the list), and fixed the menu size being strange on some monitors. Added a few server and performance mods that we added to our AV+ Pack (You should check that out too)
+
+
+Known Issues
+While working on the AVP pack, we found that the default options where not working correctly. So to keep in aline with all the packs we are removing default options mod and will be waiting for another mod to update to use for shipping default options. Because of this, upgrading packs will over write your options file.
+
+
+================================================================================
+
+
+
+Added:
+------------------------------------------- 
+panoramica_forge_1.1.2_MC_1.18-1.18.1
+farsight-1.18.2-1.8
+ItShallNotTick-1.0.20-build.21.jar
+spark-1.9.1-forge
+crashutilities-4.0
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+AdvancementPlaques-1.18.2-1.4.3
+bwncr-3.13.21
+CraftTweaker-forge-1.18.2-9.1.140
+drippyloadingscreen_forge_1.6.1_MC_1.18-1.18.2
+fancymenu_forge_2.7.2_MC_1.18.2
+ftb-chunks-forge-1802.3.6-build.145
+ftb-library-forge-1802.3.6-build.119
+Iceberg-1.18.2-1.0.44
+item-filters-forge-1802.2.7-build.27
+journeymap-1.18.2-5.8.4-forge
+MapFrontiers-1.18.2-2.1.4
+Placebo-1.18.2-6.4.0.jar
+------------------------------------------- 
+
+
+Removed:
+------------------------------------------- 
+defaultoptions-forge-1.18.1-14.1.0
+------------------------------------------- 
+
+
+
+
+
+
 
 ================================================================================
 SquirrelPAK AV - Almost Vanilla
