@@ -2,7 +2,76 @@
 SquirrelPAK AV - Almost Vanilla
 Change Log
 
-SquirrelPAK AV - Release v1.2.0
+SquirrelPAK AV - v1.2.1
+File Version 1.18.2+1.2.1
+================================================================================
+
+Just a Patch Release
+
+In this update we have updated the mods that had updates, and also updated the in game manual.
+
+
+We now have a FaceBook page! Will be posting updates and other stuff there. Feel free to drop in, like the page and be part of the converstation. That means you Steve and Alex!
+
+
+FaceBook Page:
+https://www.FaceBook.com/SquirrelCraftMP
+
+
+FaceBook Group:
+https://www.facebook.com/groups/squirrelcraft
+
+
+
+Known Issues
+While working on the AVP pack, we found that the default options where not working correctly. So to keep in aline with all the packs we are removing default options mod and will be waiting for another mod to update to use for shipping default options. Because of this, upgrading packs will over write your options file.
+
+
+================================================================================
+
+
+
+Added:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+architectury-4.4.70.jar
+fm_audio_extension_forge_1.1.0_MC_1.18-1.18.2.jar
+Bookshelf-Forge-1.18.2-13.2.20.jar
+collective-1.18.2-4.28.jar
+CraftTweaker-forge-1.18.2-9.1.153.jar
+CreativeCore_FORGE_v2.6.10_mc1.18.2.jar
+ftb-chunks-forge-1802.3.6-build.147.jar
+ftb-library-forge-1802.3.6-build.123.jar
+journeymap-1.18.2-5.8.5-forge.jar
+voicechat-forge-1.18.2-2.2.45.jar
+spark-1.9.11-forge.jar
+------------------------------------------- 
+
+
+Removed:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+
+
+
+
+
+
+
+
+================================================================================
+SquirrelPAK AV - Almost Vanilla
+Change Log
+
+SquirrelPAK AV - v1.2.0
 File Version 1.18.2+1.2.0
 ================================================================================
 

@@ -11,12 +11,12 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "SquirrelPAK AV",
-  "version": "1.18.2+1.2.0",
+  "version": "1.18.2+1.2.1",
   "author": "",
   "files": [
     {
       "projectID": 228525,
-      "fileID": 3753798,
+      "fileID": 3821562,
       "required": true
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "projectID": 416089,
-      "fileID": 3732701,
+      "fileID": 3825848,
       "required": true
     },
     {
@@ -81,12 +81,12 @@
     },
     {
       "projectID": 419699,
-      "fileID": 3807924,
+      "fileID": 3824307,
       "required": true
     },
     {
       "projectID": 404465,
-      "fileID": 3794623,
+      "fileID": 3822758,
       "required": true
     },
     {
@@ -121,7 +121,7 @@
     },
     {
       "projectID": 613067,
-      "fileID": 3808476,
+      "fileID": 3825476,
       "required": true
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "projectID": 361579,
-      "fileID": 3767286,
+      "fileID": 3824951,
       "required": true
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "projectID": 32274,
-      "fileID": 3796379,
+      "fileID": 3820040,
       "required": true
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "projectID": 239197,
-      "fileID": 3817113,
+      "fileID": 3825073,
       "required": true
     },
     {
@@ -276,7 +276,7 @@
     },
     {
       "projectID": 257814,
-      "fileID": 3757894,
+      "fileID": 3825231,
       "required": true
     },
     {
@@ -286,7 +286,7 @@
     },
     {
       "projectID": 342584,
-      "fileID": 3681237,
+      "fileID": 3822132,
       "required": true
     },
     {
@@ -321,7 +321,7 @@
     },
     {
       "projectID": 314906,
-      "fileID": 3787348,
+      "fileID": 3824539,
       "required": true
     },
     {
