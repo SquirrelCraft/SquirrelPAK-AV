@@ -30,7 +30,7 @@ customization {
 }
 
 customization {
-  identifier = %id=400322%
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = element
   orientation_element = vanillabtn:502382
   x = 50
@@ -39,19 +39,19 @@ customization {
 }
 
 customization {
-  identifier = %id=400322%
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   width = 94
   action = resizebutton
   height = 20
 }
 
 customization {
-  identifier = %id=604382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   action = hidebutton
 }
 
 customization {
-  identifier = %id=604382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   orientation = element
   orientation_element = ab278892-ff5f-433c-a874-91c83785f06f1649882173831
   x = 222
@@ -60,14 +60,14 @@ customization {
 }
 
 customization {
-  identifier = %id=604382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   width = 14
   action = resizebutton
   height = 14
 }
 
 customization {
-  identifier = %id=400382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = element
   orientation_element = vanillabtn:502382
   x = 50
@@ -76,14 +76,14 @@ customization {
 }
 
 customization {
-  identifier = %id=400382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   width = 94
   action = resizebutton
   height = 20
 }
 
 customization {
-  identifier = %id=502382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = bottom-centered
   x = -49
   action = movebutton
@@ -91,12 +91,12 @@ customization {
 }
 
 customization {
-  identifier = %id=376382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = hidebutton
 }
 
 customization {
-  identifier = %id=376382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   orientation = element
   orientation_element = ab278892-ff5f-433c-a874-91c83785f06f1649882173831
   x = -85
@@ -105,14 +105,14 @@ customization {
 }
 
 customization {
-  identifier = %id=376382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   width = 14
   action = resizebutton
   height = 14
 }
 
 customization {
-  identifier = %id=400298%
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = element
   orientation_element = vanillabtn:502382
   x = -46
@@ -121,14 +121,14 @@ customization {
 }
 
 customization {
-  identifier = %id=400298%
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   width = 94
   action = resizebutton
   height = 20
 }
 
 customization {
-  identifier = %id=400346%
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   orientation = element
   orientation_element = vanillabtn:502382
   x = -46
@@ -137,14 +137,14 @@ customization {
 }
 
 customization {
-  identifier = %id=400346%
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   width = 94
   action = resizebutton
   height = 20
 }
 
 customization {
-  identifier = %id=502346%
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
   action = hidebutton
 }
 
@@ -300,7 +300,7 @@ customization {
   y = 47
   delayappearance = true
   alignment = centered
-  value = v1.1.0+1.18.2
+  value = v1.18.2+1.2.0
   delayappearanceeverytime = false
 }
 

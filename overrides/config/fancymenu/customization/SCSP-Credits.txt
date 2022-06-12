@@ -72,13 +72,13 @@ customization {
 customization {
   orientation = mid-centered
   shadow = true
-  x = -97
+  x = -145
   action = addtext
   actionid = dc2d4e7c-6cd0-4d4a-b43e-99fa36326bdf1650025471315
-  y = 10
+  y = 14
   scale = 1.0
   alignment = left
-  value = For full credits read the credit.txt
+  value = For full credits read the credit.txt or in game manual
 }
 
 customization {

@@ -34,5 +34,5 @@
 	enabled = false
 	#Number of days after which a players chunks will be unloaded. Warning! This relies on the modify date of the player data file. 
 	#Range: > 0
-	days = 7
+	days = 2
 
